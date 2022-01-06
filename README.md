@@ -11,7 +11,7 @@ First, in order to obtain test/train/validation data, we utilized the code in th
 
 ### Results
 
-Full results of both models are available in the report, located in the root directory of this repository.
+Full results of both models are available in the [report](https://github.com/razalamb1/political_speech/blob/main/NLP%20Final%20Project%20-%20Raza%20Lamb%20and%20Erika%20Fox%20.pdf), located in the root directory of this repository.
 
 ### Recreation
 
